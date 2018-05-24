@@ -1,2 +1,2 @@
-# wordmaker
-Generate random words for the computer to speak
+**WordMAKER**
+<br>Generate random words for the computer to speak
