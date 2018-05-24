@@ -1,0 +1,23 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #eee;
+  color: #555;
+  user-select: none;
+  -webkit-user-select: none;
+  cursor: pointer;
+  font-family: sans-serif;
+  font-size: 20vmin;
+  animation: .75s;
+}
+@keyframes animation {
+  50% {
+    opacity: 0;
+    font-size: 0;
+  }
+}
